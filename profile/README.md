@@ -6,7 +6,7 @@
 
 **Mapology** is dedicated to producing accurate maps through Geographical Information Systems (GIS) software across a wide range of domains such as geopolitics, geology, environment, and much more.
 
-This is just a hobby organisation, and all the maps are in the public domain for use. 
+This is just a hobby organisation, and all the maps are in the public domain. 
 
 
 ## Gallery
